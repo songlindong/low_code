@@ -2,8 +2,7 @@
   <div class="hello">
     <div class="header">
       <div class="header-logo">
-        <img src="../assets/logo.jpg" alt="logo">
-        <strong>爪哇低代码</strong>
+        <strong>低代码</strong>
       </div>
       <div class="header-btn">
         <span>预览</span>
@@ -123,6 +122,7 @@ export default {
   .header-logo {
     display: flex;
     align-items: center;
+    line-height: 50px;
   }
 
   .header img {

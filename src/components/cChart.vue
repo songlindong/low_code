@@ -16,11 +16,11 @@ export default {
 
         myChart.setOption({
             title: {
-                text: 'zhaowa低代码图'
+                text: '低代码图'
             },
             tooltip: {},
             xAxis: {
-                data: ['zhaowa1', 'zhaowa2', 'zhaowa3', 'zhaowa4']
+                data: ['测试1', '测试2', '测试3', '测试4']
             },
             yAxis: {},
             series: [{
